@@ -20,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SAVE_CHANGES_POLICY" value="STASH" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -212,6 +213,7 @@
       <workItem from="1594820199216" duration="704000" />
       <workItem from="1594880708804" duration="4052000" />
       <workItem from="1594979448038" duration="721000" />
+      <workItem from="1594980695624" duration="617000" />
     </task>
     <servers />
   </component>
